@@ -1,5 +1,6 @@
 <script>
 
-alert("first script").
+var app = 1;
+
 
 </script>
